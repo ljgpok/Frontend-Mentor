@@ -8,6 +8,11 @@ const projects = [
 		name: 'intro-component-with-signup-form-master',
 		github:
 			'https://github.com/t1gula00/Frontend-Mentor/tree/master/intro-component-with-signup-form-master'
+	},
+	{
+		name: 'fylo-landing-page',
+		github:
+			'https://github.com/t1gula00/Frontend-Mentor/tree/master/fylo-landing-page'
 	}
 ];
 
