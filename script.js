@@ -18,6 +18,11 @@ const projects = [
 		name: 'huddle-landing-page',
 		github:
 			'https://github.com/t1gula00/Frontend-Mentor/tree/master/huddle-landing-page'
+	},
+	{
+		name: 'insure-landing-page',
+		github:
+			'https://github.com/t1gula00/Frontend-Mentor/tree/master/insure-landing-page'
 	}
 ];
 
