@@ -23,6 +23,11 @@ const projects = [
 		name: 'insure-landing-page',
 		github:
 			'https://github.com/t1gula00/Frontend-Mentor/tree/master/insure-landing-page'
+	},
+	{
+		name: 'base-apparel-coming-soon-master',
+		github:
+			'https://github.com/t1gula00/Frontend-Mentor/tree/master/base-apparel-coming-soon-master'
 	}
 ];
 
